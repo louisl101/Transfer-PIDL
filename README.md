@@ -1,7 +1,7 @@
 # Transfer-PIDL Model 
 
-> **Note:** This project only provides essential source code of the Transfer-PIDL model for paper submission
-> **Note:** The full running scripts will be updated after acceptance
+> **Note:** This repository includes only the core source code of the Transfer-PIDL model submitted for peer review.
+> **Note:**  Comprehensive execution scripts and additional resources will be made available upon acceptance.
 
 ### Environment Dependencies
 
