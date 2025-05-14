@@ -1,2 +1,0 @@
-train_r2,train_rmse,train_nrmse,train_mae,train_mare,test_r2,test_rmse,test_nrmse,test_mae,test_mare,Epoch,batch_size,learning_rate,hidden_dim,layer_num,hidden_dim_fc1,hidden_dim_fc2,lam_ec
-0.9623227,0.83411634,0.043218464,0.6308027,0.06765683,0.93040407,1.0447578,0.059913617,0.8100927,0.080125265,200.0,128.0,0.005,48.0,2.0,32.0,12.0,0.0
