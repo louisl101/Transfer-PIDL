@@ -2,7 +2,7 @@
 
 > **Note:** This repository includes only the core source code of the Transfer-PIDL model submitted for peer review.
 
-> **Note:** Due to the extensive number of result files, calibration and validation outcomes for each model are consolidated in the filef older named exper1 (provided as an example).
+> **Note:** Due to the extensive number of result files, calibration and validation outcomes for each model are consolidated in the file folder named exper1 (provided as an example).
 
 > **Note:** Comprehensive execution scripts and additional resources will be made available upon acceptance.
 
