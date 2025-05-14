@@ -1,7 +1,5 @@
 # Transfer-PIDL Model 
-### Large-scale Pre-training
-### Physics-guided domain adaptation
-### Local Site-specific Fine-tuning 
+
 > **Note:** This project only provides essential source code of the Transfer-PIDL model for paper submission
 > **Note:** The full running scripts will be updated after acceptance
 
