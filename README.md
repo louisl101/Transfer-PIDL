@@ -1,4 +1,4 @@
-# Transfer-PIDL Model 
+# Transfer-PIDL 
 
 > **Note:** This repository contains the core source code of the Transfer-PIDL model, along with the experimental results, see Liu. et al 2026 WRR; DOI: 10.1029/2025WR041062
 
