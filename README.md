@@ -1,6 +1,6 @@
 # Transfer-PIDL 
 
-> **Note:** This repository contains the core source code of the Transfer-PIDL model, along with the experimental results, see Liu. et al., Predicting lake surface water temperature with transfer‐based physics‐informed deep learning. Water Resources Research, 62, e2025WR041062. https://doi.org/10.1029/
+> **Note:** This repository contains the core source code of the Transfer-PIDL model, along with the experimental results, see Liu. et al., 2026. Predicting lake surface water temperature with transfer‐based physics‐informed deep learning. Water Resources Research, 62, e2025WR041062. https://doi.org/10.1029/
 
 ### Environment Dependencies
 
